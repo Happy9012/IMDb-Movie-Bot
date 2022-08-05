@@ -19,10 +19,10 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/Happy9012/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/pocketmovieschannel'>Jos Projects</a>
+- <a href='https://t.me/pocketmovieschannel'>PM Updates</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/Pocketmoviesgroup'>Jos Movie Club</a>"""
+- <a href='https://t.me/Pocketmoviesgroup'>Pocket Movie Group</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
